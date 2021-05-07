@@ -6,3 +6,4 @@ An android application which lets you draw texts/characters or you can even pain
 * Paint
 * Color
 # User Interface
+<img src="images/Painting.jpg" width= 300 height= 600 > <img src="images/Set Color.jpg" width= 300 height= 600 > <img src="images/Set Width of Brush.jpg" width= 300 height= 600 >
